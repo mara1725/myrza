@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1778667813360,
+    "name": "Карыпбеков Мырза",
+    "role": "student",
+    "direction": "android",
+    "directionLabel": "Android Разработка",
+    "skills": [
+      "Figma",
+      "Kotlin"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=%D0%9A%D0%B0%D1%80%D1%8B%D0%BF%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%20%D0%9C%D1%8B%D1%80%D0%B7%D0%B0&backgroundColor=b6e3f4",
+    "status": "3 месяца обучения "
+  },
+  {
+    "id": 1772131158256,
+    "name": "Адиль Байгазиев",
+    "role": "teacher",
+    "direction": "uxui",
+    "directionLabel": "UX/UI Дизайн",
+    "skills": [
+      "Figma"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=%D0%90%D0%B4%D0%B8%D0%BB%D1%8C%20%D0%91%D0%B0%D0%B9%D0%B3%D0%B0%D0%B7%D0%B8%D0%B5%D0%B2&backgroundColor=b6e3f4",
+    "experience": "3 года"
+  },
+  {
+    "id": 1,
+    "name": "Азамат Усенов",
+    "role": "teacher",
+    "direction": "android",
+    "directionLabel": "Android Разработка",
+    "skills": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "Redux"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Azamat&backgroundColor=b6e3f4",
+    "experience": "5 лет"
+  },
+  {
+    "id": 2,
+    "name": "Тимур Асанов",
+    "role": "teacher",
+    "direction": "frontend",
+    "directionLabel": "Фронтенд",
+    "experience": "4 года",
+    "skills": [
+      "Vue.js",
+      "Nuxt",
+      "HTML/CSS"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Timur&backgroundColor=c0aede"
+  },
+  {
+    "id": 3,
+    "name": "Канатбек уулу Бекбосун",
+    "role": "student",
+    "direction": "frontend",
+    "directionLabel": "Фронтенд",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Основы JS"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Aigerim&backgroundColor=ffdfbf",
+    "status": "3 месяц обучения"
+  },
+  {
+    "id": 4,
+    "name": "Бектур Русланов",
+    "role": "student",
+    "direction": "frontend",
+    "directionLabel": "Фронтенд",
+    "status": "Выпускник",
+    "skills": [
+      "React",
+      "Tailwind",
+      "REST API"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Bektur&backgroundColor=d1d4f9"
+  },
+  {
+    "id": 5,
+    "name": "Камила Исаева",
+    "role": "teacher",
+    "direction": "uxui",
+    "directionLabel": "UX/UI Дизайн",
+    "experience": "6 лет",
+    "skills": [
+      "Figma",
+      "CJM",
+      "Prototyping",
+      "User Research"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Kamila&backgroundColor=ffdfbf"
+  },
+  {
+    "id": 6,
+    "name": "Данияр Оморов",
+    "role": "teacher",
+    "direction": "uxui",
+    "directionLabel": "UX/UI Дизайн",
+    "experience": "3 года",
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "Animation"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Daniyar&backgroundColor=b6e3f4"
+  },
+  {
+    "id": 7,
+    "name": "Малика Нурланова",
+    "role": "student",
+    "direction": "uxui",
+    "directionLabel": "UX/UI Дизайн",
+    "status": "2 месяц обучения",
+    "skills": [
+      "Figma Basics",
+      "Color Theory",
+      "Typography"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Malika&backgroundColor=c0aede"
+  },
+  {
+    "id": 8,
+    "name": "Ислам Каримов",
+    "role": "student",
+    "direction": "uxui",
+    "directionLabel": "UX/UI Дизайн",
+    "status": "5 месяц обучения",
+    "skills": [
+      "UI Kits",
+      "Mobile Design",
+      "Wireframing"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Islam&backgroundColor=d1d4f9"
+  },
+  {
+    "id": 9,
+    "name": "Нурбек Токтогулов",
+    "role": "teacher",
+    "direction": "android",
+    "directionLabel": "Android Разработка",
+    "experience": "7 лет",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "Android Studio",
+      "Coroutines"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nurbek&backgroundColor=c0aede"
+  },
+  {
+    "id": 10,
+    "name": "Эрмек Садыков",
+    "role": "teacher",
+    "direction": "android",
+    "directionLabel": "Android Разработка",
+    "experience": "4 года",
+    "skills": [
+      "Kotlin",
+      "Jetpack Compose",
+      "MVVM"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ermek&backgroundColor=ffdfbf"
+  },
+  {
+    "id": 11,
+    "name": "Алина Жолдошева",
+    "role": "student",
+    "direction": "android",
+    "directionLabel": "Android Разработка",
+    "status": "4 месяц обучения",
+    "skills": [
+      "Kotlin Basics",
+      "RecyclerView",
+      "Room"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alina&backgroundColor=b6e3f4"
+  },
+  {
+    "id": 12,
+    "name": "Эсенбеков Доолот ",
+    "role": "student",
+    "direction": "android",
+    "directionLabel": "Android Разработка",
+    "skills": [
+      "Основы программирования",
+      "OOP"
+    ],
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rustam&backgroundColor=d1d4f9",
+    "status": "1 месяц обучения"
+  }
+]
